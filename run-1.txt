@@ -1,0 +1,96 @@
+This file contains 5 runs of the linear regression on the training data:
+
+I have used 6 variables and the stochastic gradient descendant
+
+
+Run-1 
+
+Learning Rate        = 0.01
+Number of Iterations = 2000
+Random               = 15
+Root MSE             = 1.066824
+
+WEIGHTS :
+[[7.33271723]
+ [7.15834595]
+ [7.41667537]
+ ...
+ [8.7796177 ]
+ [7.17341219]
+ [7.73252332]]
+
+
+
+Run-2 
+
+Learning Rate        = 0.01
+Number of Iterations = 2000
+Random               = 15
+Root MSE             = 1.066814
+
+WEIGHTS :
+[[7.33279049]
+ [7.15843351]
+ [7.41662285]
+ ...
+ [8.77969976]
+ [7.17338521]
+ [7.73248018]]
+
+
+
+Run-3
+
+Learning Rate        = 0.01
+Number of Iterations = 3000
+Random               = 4
+Root MSE             = 1.066808
+
+WEIGHTS :
+[[7.33283431]
+ [7.15848587]
+ [7.41659153]
+ ...
+ [8.77974888]
+ [7.17336909]
+ [7.73245461]
+
+
+
+
+Run-4
+
+Learning Rate        = 0.04
+Number of Iterations = 4000
+Random               = 3
+Root MSE             = 1.066818
+
+WEIGHTS :
+[[7.33276026]
+ [7.15839736]
+ [7.41664462]
+ ...
+ [8.77966594]
+ [7.17339636]
+ [7.73249829]]
+
+
+
+
+Run-5
+
+Learning Rate        = 0.05
+Number of Iterations = 5000
+Random               = 5
+Root MSE             = 1.066818
+
+WEIGHTS :
+[[7.33275772]
+ [7.15839432]
+ [7.41664644]
+ ...
+ [8.77966309]
+ [7.17339729]
+ [7.73249979]]
+
+
